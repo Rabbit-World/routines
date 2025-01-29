@@ -8,7 +8,7 @@ Set a note in your Journal with this prompt between #SET:
 
 #SET
 
-Controlla l'orario e in base a che ore sono esegui la routine dell'orario di riferimento
+Controlla l'orario e in base a che ore sono, esegui la routine dell'orario di riferimento
 
 Vai su https://github.com/Rabbit-World/routines
 
